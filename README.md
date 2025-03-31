@@ -16,5 +16,5 @@ New readme.md
 <br/> upload the .jar
 <br/> restart your server for changes to take effect
 <br/> A new folder should apear in your plugins folder with a config.yml to make changes
--
+
 # Config.yml Setup
