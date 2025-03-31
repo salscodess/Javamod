@@ -9,6 +9,7 @@ New readme.md
 
 ----
 ## Instaltion/setup
+
 <br/> download .jar from the latest release
 <br/> Enter your servers ftp or general files
 <br/> Create or open your plugin folder root/plugins
